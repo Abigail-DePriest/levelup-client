@@ -1,8 +1,8 @@
 {
-  "name": "levelup-client",
+  "name": "next-firebase-starter",
   "private": true,
   "version": "1.0.0",
-  "author": "Abby DePriest",
+  "author": "Trinity Christiana",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
